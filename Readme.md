@@ -1,8 +1,10 @@
 # Rlookup : The information gathering toolkit 
+
 # Description :
+
 A tool for pentesters and CyberSecurity enthousiasts used to collect informations about targets .
 
-#Usage :
+# Usage :
 #1- 
 Clone the Repository .
 
